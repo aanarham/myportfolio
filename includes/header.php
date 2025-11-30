@@ -35,7 +35,7 @@
                     <li><a href="education.php" class="<?php echo (isset($currentPage) && $currentPage == 'education') ? 'active' : ''; ?>">PENDIDIKAN</a></li>
                     <li><a href="experience.php" class="<?php echo (isset($currentPage) && $currentPage == 'experience') ? 'active' : ''; ?>">PENGALAMAN</a></li>
                     <li><a href="work.php" class="<?php echo (isset($currentPage) && $currentPage == 'work') ? 'active' : ''; ?>">PORTOFOLIO</a></li>
-                    <li><a href="blog.php" class="<?php echo (isset($currentPage) && $currentPage == 'blog') ? 'active' : ''; ?>">BLOG</a></li>
+                    <li><a href="project.php" class="<?php echo (isset($currentPage) && $currentPage == 'project') ? 'active' : ''; ?>">PROYEK</a></li>
                     <li><a href="contact.php" class="<?php echo (isset($currentPage) && $currentPage == 'contact') ? 'active' : ''; ?>">KONTAK</a></li>
                 </ul>
             </nav>
