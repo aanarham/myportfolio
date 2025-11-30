@@ -23,9 +23,9 @@ include 'includes/header.php';
                 <h4>Berbagai Perusahaan</h4>
                 <p>Pengalaman dalam bidang sales marketing untuk berbagai produk:</p>
                 <ul>
-                    <li>Produk kosmetik</li>
-                    <li>Produk klontongan</li>
-                    <li>Produk bayi</li>
+                    <li>Crocodile Garment PT Sinta Pertiwi Mks</li>
+                    <li>Kosmetik,produk bayi & klontongan UD Balijaya</li>
+                    <li>Produk Kosmetik</li>
                     <li>Bahan bangunan</li>
                 </ul>
             </div>

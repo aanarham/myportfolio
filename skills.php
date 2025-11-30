@@ -23,7 +23,7 @@ include 'includes/header.php';
                     </div>
                 </li>
                 <li>
-                    <span class="skill-name">Komunikasi</span>
+                    <span class="skill-name">Analisis data</Data></span>
                     <div class="skill-bar">
                         <div class="skill-progress" style="width: 88%"></div>
                     </div>
